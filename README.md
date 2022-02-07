@@ -1,5 +1,5 @@
-# Hola_mundo
-mi primer repositorio de prueba 
+# Hola mundo
+mi primer repositorio 
 
 Autor: carlos alberto v.Torres
 Fecha: 6 de frebrero
